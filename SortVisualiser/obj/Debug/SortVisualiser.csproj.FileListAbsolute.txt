@@ -1,0 +1,10 @@
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\bin\Debug\SortVisualiser.exe.config
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\bin\Debug\SortVisualiser.exe
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\bin\Debug\SortVisualiser.pdb
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.csproj.AssemblyReference.cache
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.Form1.resources
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.Properties.Resources.resources
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.csproj.GenerateResource.cache
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.csproj.CoreCompileInputs.cache
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.exe
+C:\Users\jackp\Desktop\jacks_stuff\Programing\C#\other\sorting visualiser\SortVisualiser\obj\Debug\SortVisualiser.pdb
